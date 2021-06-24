@@ -1,0 +1,26 @@
+{
+  "name": "hw01",
+  "version": "1.0.0",
+  "description": "hw01 node",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VyacheslavRus/hw01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VyacheslavRus/hw01/issues"
+  },
+  "homepage": "https://github.com/VyacheslavRus/hw01#readme"
+}

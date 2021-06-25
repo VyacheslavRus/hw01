@@ -6,7 +6,7 @@ hw01 node
 ![1](/image/1.jpg)
 
 <h2>node index.js --action get --id 5</h2>
-![1](/image/2.jpg)
+(/image/2.jpg)
 
 <h2>node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22</h2>
 ![1](/image/3.jpg)
